@@ -1,2 +1,2 @@
-# python-based-Fiber-volume-fraction-calculation-in-microscopic-images
+# Python-based-Fiber-volume-fraction-calculation-in-microscopic-images
 Image Processing and Analysis using Python: This repository contains code for processing and analyzing images using techniques like grayscale conversion, normalization, segmentation, and classification of fiber, matrix, and defects. The implementation uses OpenCV and custom algorithms to analyze image properties and calculate key metrics."
